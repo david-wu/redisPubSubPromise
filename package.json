@@ -1,8 +1,9 @@
 {
-  "name": "redisPsp",
+  "name": "redis-psp",
   "description": "Redis Pub Sub with promises",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "David Wu <david.wuu@gmail.com>",
+  "url": "https://github.com/david-wu/redisPubSubPromise",
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4",

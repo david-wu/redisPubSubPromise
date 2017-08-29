@@ -1,7 +1,11 @@
 RedisPsp
 ============
 
-const redisPsp = require('redisPsp')
+Easy way to subscribe and publish (at the cost of opening/closing connections)
+
+
+```
+const redisPsp = require('redis-psp')
 
 function startServices(){
 	return Promise.all([
@@ -53,3 +57,4 @@ startServices()
 			})
 
 	})
+```
