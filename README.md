@@ -3,7 +3,15 @@ RedisPsp
 
 Easy way to subscribe and publish (at the cost of opening/closing connections)
 
+### Repo
+`https://github.com/david-wu/redisPubSubPromise`
 
+
+### Installation
+`npm install --save redis-psp`
+
+
+### Usage
 ```
 const redisPsp = require('redis-psp')
 
