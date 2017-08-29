@@ -1,0 +1,11 @@
+{
+  "name": "redisPsp",
+  "description": "Redis Pub Sub with promises",
+  "version": "0.0.1",
+  "author": "David Wu <david.wuu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "redis": "^2.8.0"
+  }
+}
